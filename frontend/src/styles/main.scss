@@ -1,0 +1,12 @@
+@import "variables";
+
+body {
+  font-family: Arial;
+}
+
+button {
+  background: $primary;
+  color: white;
+  padding: 10px;
+  border: none;
+}
